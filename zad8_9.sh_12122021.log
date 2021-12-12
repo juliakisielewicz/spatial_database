@@ -1,0 +1,9 @@
+204241/12122021 - Downloading and unzipping - Successful
+204241/12122021 - Removing empty lines from file - Successful
+204241/12122021 - Removing duplicates from file - Successful
+204241/12122021 - Creating table customers_402445 - Successful
+204241/12122021 - Moving file to PROCESSED folder - Successful
+204241/12122021 - Sending first email - Successful
+204241/12122021 - Creating table best_customers_402445 - Successful
+204241/12122021 - Exporting and compressing table best_customers_402445 to CSV file - Successful
+204241/12122021 - Sending second email - Successful
